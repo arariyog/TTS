@@ -1,2 +1,2 @@
-# TTS
-learn by doing
+## TTS 
+### Find more on Notion : [notion](http://bit.ly/about-jihae)
